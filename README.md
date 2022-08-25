@@ -1,2 +1,2 @@
 my second readme
-a good developer
+a good program
